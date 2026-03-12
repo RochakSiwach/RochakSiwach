@@ -1,141 +1,130 @@
 <h1 align="center">Hi 👋, I'm Rochak Siwach</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;Building+Scalable+Web+Applications;REST+APIs+%7C+Real-Time+Apps+%7C+Authentication" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:rochaksiwach13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/RochakSiwach">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech Student at **Dronacharya College of Engineering**
-
-💻 Full Stack Web Developer specializing in **MERN Stack**
-
-⚡ Experience building **REST APIs, authentication systems, and real-time apps**
-
-🚀 Passionate about **scalable applications and collaborative platforms**
+- 🎓 B.Tech student at **Dronacharya College of Engineering**
+- 💻 Full Stack Developer specializing in the **MERN Stack**
+- ⚡ Skilled in **REST APIs, authentication, CRUD operations, debugging, deployment, and performance optimization**
+- 🚀 Interested in building **real-time collaborative and scalable web applications**
+- 🌱 Currently growing in **backend architecture, system design, and production-grade development**
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend
-
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
-
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Programming
-
+### Programming & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,js" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,git,github,vscode" />
 </p>
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-### Frontend Developer Intern
+### Frontend Web Development Intern — MNT Dreams Pvt. Ltd.
+**Jun 2025 – Jul 2025 | Gurugram**
 
-MNT Dreams Pvt. Ltd (2025)
-
-• Built a **real-time leaderboard system**
-
-• Developed **secure login and authentication modules**
-
-• Improved **UI performance and responsiveness**
+- Built and implemented a **real-time leaderboard** for dynamic data updates
+- Developed **secure login and registration modules**
+- Improved **frontend responsiveness and performance** using optimization best practices
 
 ---
 
-# 🚀 Projects
+## 🛠️ Projects
 
-## 💬 WhatsApp Automation
+### 💬 WhatsApp Automation
+A Python-based WhatsApp messaging system built using **Twilio API**.
 
-Python based WhatsApp automation using **Twilio API**
+**Highlights:**
+- Automated messaging
+- Message scheduling
+- Custom responses
+- Error handling for better reliability
+- Useful for reminders, notifications, and chatbot-like workflows
 
-Features:
+### 💻 CodeSphere — Real-Time Collaborative Coding Platform
+An ongoing project focused on **real-time multi-user coding collaboration**.
 
-• Automated messaging
-• Message scheduling
-• Chatbot responses
-• Notification automation
+**Features:**
+- Live code editing
+- Cursor synchronization
+- Real-time chat
+- Syntax highlighting
+- Session-based collaboration
+- Video calling with **WebRTC**
 
----
-
-## 💻 CodeSphere (Ongoing)
-
-Real-Time Collaborative Coding Platform
-
-Features:
-
-• Live code collaboration
-• WebSocket synchronization
-• Real-time chat
-• Video calling with WebRTC
-
-Tech Stack:
-
-React + Node.js + Express + WebSockets
+**Tech Stack:** React.js, Node.js, Express.js, WebSockets
 
 ---
 
-# 📊 GitHub Stats
+## 🏆 Achievements & Activities
+
+- 🎖️ Member of **College IOS Club**
+- 🥈 **Zonal Kabaddi Runner-Up**
+- 🏃 Participated in **CBSE National Athletics Meet**
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=RochakSiwach&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochakSiwach&layout=compact&theme=tokyonight" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=RochakSiwach&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochakSiwach&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
-
----
-
-# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/RochakSiwach/RochakSiwach/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://streak-stats.demolab.com?user=RochakSiwach&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🏆 Achievements
+## 🐍 Contribution Snake
 
-🏅 College IOS Club Member
-
-🏅 Zonal Kabaddi Runner-Up
-
-🏅 Participated in CBSE National Athletics Meet
+<p align="center">
+  <img src="https://github.com/RochakSiwach/RochakSiwach/blob/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
-📧 [rochaksiwach13@gmail.com](mailto:rochaksiwach13@gmail.com)
-
-💼 LinkedIn: https://linkedin.com
-
-🌐 GitHub: https://github.com/RochakSiwach
+- 📧 **rochaksiwach13@gmail.com**
+- 🐙 **GitHub:** [RochakSiwach](https://github.com/RochakSiwach)
+- 💼 **LinkedIn:** add your actual LinkedIn profile link here
 
 ---
 
-⭐ If you like my projects, consider giving them a star.
+<p align="center">⭐ Turning ideas into full-stack web experiences.</p>
